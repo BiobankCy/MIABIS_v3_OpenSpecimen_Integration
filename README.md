@@ -6,4 +6,5 @@ Download the [MIABIS v3.0 entity](MIABISv3_forms) (zip file) to your computer. G
 
 ## Screenshots
 ![Import 1](doc/importforms1.png)
+
 ![Import 2](doc/importforms2.png)
