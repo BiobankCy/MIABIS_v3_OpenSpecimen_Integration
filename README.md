@@ -3,3 +3,7 @@ This resource includes the [MIABIS Core 3.0](https://github.com/BBMRI-ERIC/miabi
 
 ## How to import in OpenSpecimen
 Download the [MIABIS v3.0 entity](MIABISv3_forms) (zip file) to your computer. Go to the Forms module in OpenSpecimen. Then click the 'Import' button from the forms list view page, then choose the MIABIS v3.0 entity and click Import.
+
+## Screenshots
+![Import 1](doc/importforms1.png)
+![Import 2](doc/importforms2.png)
